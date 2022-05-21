@@ -1,6 +1,4 @@
 import { useEffect, useState } from 'react';
-
-
 import { api } from './services/api';
 import{ GenreResponseProps, MovieProps} from './components/typings'
 import { SideBar } from './components/SideBar';
